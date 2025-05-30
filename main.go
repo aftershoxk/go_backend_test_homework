@@ -5,9 +5,9 @@ import (
 )
 
 func Add(a, b int) int {
-	return a + b
+	return a + b //Сложение
 }
 
 func main() {
-	fmt.Println("Я домашка")
+	fmt.Println("Я домашка") //Вывод на экран
 }
